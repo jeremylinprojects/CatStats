@@ -1,2 +1,37 @@
-{"timestamp":"00:00:01.449","source":"Server","level":"LOG","message":""}
-{"timestamp":"00:00:09.465","source":"Server","level":"WARN","message":"Error: Route \"/api/device/[id]/command\" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis"}
+{"timestamp":"00:00:02.305","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:02.305","source":"Server","level":"LOG","message":"  We detected TypeScript in your project and reconfigured your tsconfig.json file for you."}
+{"timestamp":"00:00:02.305","source":"Server","level":"LOG","message":"  The following suggested values were added to your tsconfig.json. These values can be changed to fit your project's needs:\n"}
+{"timestamp":"00:00:02.305","source":"Server","level":"LOG","message":"  \t- include was updated to add '.next/dev/types/**/*.ts'"}
+{"timestamp":"00:00:02.305","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:02.437","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:11.270","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:00:11.542","source":"Server","level":"ERROR","message":"Dashboard API error: Error: @vercel/kv: Missing required environment variables KV_REST_API_URL and KV_REST_API_TOKEN"}
+{"timestamp":"00:00:42.252","source":"Server","level":"ERROR","message":"Dashboard API error: Error: @vercel/kv: Missing required environment variables KV_REST_API_URL and KV_REST_API_TOKEN"}
+{"timestamp":"00:01:12.237","source":"Server","level":"ERROR","message":"Dashboard API error: Error: @vercel/kv: Missing required environment variables KV_REST_API_URL and KV_REST_API_TOKEN"}
+{"timestamp":"00:01:42.233","source":"Server","level":"ERROR","message":"Dashboard API error: Error: @vercel/kv: Missing required environment variables KV_REST_API_URL and KV_REST_API_TOKEN"}
+{"timestamp":"00:02:12.227","source":"Server","level":"ERROR","message":"Dashboard API error: Error: @vercel/kv: Missing required environment variables KV_REST_API_URL and KV_REST_API_TOKEN"}
+{"timestamp":"00:02:42.231","source":"Server","level":"ERROR","message":"Dashboard API error: Error: @vercel/kv: Missing required environment variables KV_REST_API_URL and KV_REST_API_TOKEN"}
+{"timestamp":"00:03:12.228","source":"Server","level":"ERROR","message":"Dashboard API error: Error: @vercel/kv: Missing required environment variables KV_REST_API_URL and KV_REST_API_TOKEN"}
+{"timestamp":"00:04:28.230","source":"Server","level":"ERROR","message":"Dashboard API error: Error: @vercel/kv: Missing required environment variables KV_REST_API_URL and KV_REST_API_TOKEN"}
+{"timestamp":"00:05:28.229","source":"Server","level":"ERROR","message":"Dashboard API error: Error: @vercel/kv: Missing required environment variables KV_REST_API_URL and KV_REST_API_TOKEN"}
+{"timestamp":"00:06:28.231","source":"Server","level":"ERROR","message":"Dashboard API error: Error: @vercel/kv: Missing required environment variables KV_REST_API_URL and KV_REST_API_TOKEN"}
+{"timestamp":"00:07:28.227","source":"Server","level":"ERROR","message":"Dashboard API error: Error: @vercel/kv: Missing required environment variables KV_REST_API_URL and KV_REST_API_TOKEN"}
+{"timestamp":"00:08:28.231","source":"Server","level":"ERROR","message":"Dashboard API error: Error: @vercel/kv: Missing required environment variables KV_REST_API_URL and KV_REST_API_TOKEN"}
+{"timestamp":"00:09:28.231","source":"Server","level":"ERROR","message":"Dashboard API error: Error: @vercel/kv: Missing required environment variables KV_REST_API_URL and KV_REST_API_TOKEN"}
+{"timestamp":"00:10:28.231","source":"Server","level":"ERROR","message":"Dashboard API error: Error: @vercel/kv: Missing required environment variables KV_REST_API_URL and KV_REST_API_TOKEN"}
+{"timestamp":"00:11:28.230","source":"Server","level":"ERROR","message":"Dashboard API error: Error: @vercel/kv: Missing required environment variables KV_REST_API_URL and KV_REST_API_TOKEN"}
+{"timestamp":"00:12:28.235","source":"Server","level":"ERROR","message":"Dashboard API error: Error: @vercel/kv: Missing required environment variables KV_REST_API_URL and KV_REST_API_TOKEN"}
+{"timestamp":"00:13:28.235","source":"Server","level":"ERROR","message":"Dashboard API error: Error: @vercel/kv: Missing required environment variables KV_REST_API_URL and KV_REST_API_TOKEN"}
+{"timestamp":"00:14:28.238","source":"Server","level":"ERROR","message":"Dashboard API error: Error: @vercel/kv: Missing required environment variables KV_REST_API_URL and KV_REST_API_TOKEN"}
+{"timestamp":"00:15:28.237","source":"Server","level":"ERROR","message":"Dashboard API error: Error: @vercel/kv: Missing required environment variables KV_REST_API_URL and KV_REST_API_TOKEN"}
+{"timestamp":"00:16:28.237","source":"Server","level":"ERROR","message":"Dashboard API error: Error: @vercel/kv: Missing required environment variables KV_REST_API_URL and KV_REST_API_TOKEN"}
+{"timestamp":"00:17:28.238","source":"Server","level":"ERROR","message":"Dashboard API error: Error: @vercel/kv: Missing required environment variables KV_REST_API_URL and KV_REST_API_TOKEN"}
+{"timestamp":"00:18:28.237","source":"Server","level":"ERROR","message":"Dashboard API error: Error: @vercel/kv: Missing required environment variables KV_REST_API_URL and KV_REST_API_TOKEN"}
+{"timestamp":"00:19:28.237","source":"Server","level":"ERROR","message":"Dashboard API error: Error: @vercel/kv: Missing required environment variables KV_REST_API_URL and KV_REST_API_TOKEN"}
+{"timestamp":"00:20:28.258","source":"Server","level":"ERROR","message":"Dashboard API error: Error: @vercel/kv: Missing required environment variables KV_REST_API_URL and KV_REST_API_TOKEN"}
+{"timestamp":"00:21:28.246","source":"Server","level":"ERROR","message":"Dashboard API error: Error: @vercel/kv: Missing required environment variables KV_REST_API_URL and KV_REST_API_TOKEN"}
+{"timestamp":"00:22:28.241","source":"Server","level":"ERROR","message":"Dashboard API error: Error: @vercel/kv: Missing required environment variables KV_REST_API_URL and KV_REST_API_TOKEN"}
+{"timestamp":"00:23:28.234","source":"Server","level":"ERROR","message":"Dashboard API error: Error: @vercel/kv: Missing required environment variables KV_REST_API_URL and KV_REST_API_TOKEN"}
+{"timestamp":"00:24:28.240","source":"Server","level":"ERROR","message":"Dashboard API error: Error: @vercel/kv: Missing required environment variables KV_REST_API_URL and KV_REST_API_TOKEN"}
+{"timestamp":"00:25:28.233","source":"Server","level":"ERROR","message":"Dashboard API error: Error: @vercel/kv: Missing required environment variables KV_REST_API_URL and KV_REST_API_TOKEN"}
+{"timestamp":"00:25:48.373","source":"Server","level":"ERROR","message":"Dashboard API error: Error: @vercel/kv: Missing required environment variables KV_REST_API_URL and KV_REST_API_TOKEN"}

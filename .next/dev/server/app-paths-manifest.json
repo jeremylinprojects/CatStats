@@ -1,3 +1,4 @@
 {
-  "/api/device/[id]/command/route": "app/api/device/[id]/command/route.js"
+  "/api/dashboard/route": "app/api/dashboard/route.js",
+  "/page": "app/page.js"
 }
